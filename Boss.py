@@ -8,7 +8,7 @@ task_id = 1
 task_result = Task()
 
 while True:
-    new_task = Task(task_id, 1000) 
+    new_task = Task(task_id, 100) 
     qclient.taskQueue.put(new_task)
     print(f"Tâche ajoutée:  {new_task.identifier}")
     task_id += 1
