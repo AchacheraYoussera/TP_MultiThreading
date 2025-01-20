@@ -1,3 +1,4 @@
+Readme Du TP multithreading : Achachera - Lestrade
 Comparaison des performances : Python vs C++ pour une tâche de taille = 2000
 
 - Temps d'exécution
